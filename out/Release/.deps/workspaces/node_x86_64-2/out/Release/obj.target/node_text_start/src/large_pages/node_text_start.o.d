@@ -1,0 +1,4 @@
+cmd_/workspaces/node_x86_64-2/out/Release/obj.target/node_text_start/src/large_pages/node_text_start.o := cc -o /workspaces/node_x86_64-2/out/Release/obj.target/node_text_start/src/large_pages/node_text_start.o ../src/large_pages/node_text_start.S '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_FILE_OFFSET_BITS=64' '-DNODE_OPENSSL_CONF_NAME=nodejs_conf' '-DICU_NO_USER_DATA_OVERRIDE' '-D__STDC_FORMAT_MACROS' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS'   -Wall -Wextra -Wno-unused-parameter -Wno-restrict -pthread -Wall -Wextra -Wno-unused-parameter -m64 -O3 -fno-omit-frame-pointer  -MMD -MF /workspaces/node_x86_64-2/out/Release/.deps//workspaces/node_x86_64-2/out/Release/obj.target/node_text_start/src/large_pages/node_text_start.o.d.raw   -c
+/workspaces/node_x86_64-2/out/Release/obj.target/node_text_start/src/large_pages/node_text_start.o: \
+ ../src/large_pages/node_text_start.S
+../src/large_pages/node_text_start.S:

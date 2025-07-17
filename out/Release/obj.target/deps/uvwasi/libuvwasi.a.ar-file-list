@@ -1,0 +1,9 @@
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/clocks.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/fd_table.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/path_resolver.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/poll_oneoff.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/sync_helpers.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/uv_mapping.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/uvwasi.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/wasi_rights.o
+/workspaces/node_x86_64-2/out/Release/obj.target/uvwasi/deps/uvwasi/src/wasi_serdes.o

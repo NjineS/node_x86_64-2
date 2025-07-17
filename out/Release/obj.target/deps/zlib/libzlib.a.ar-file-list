@@ -1,0 +1,15 @@
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/adler32.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/compress.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/cpu_features.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/crc32.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/deflate.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/gzclose.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/gzlib.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/gzread.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/gzwrite.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/infback.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/inffast.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/inftrees.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/trees.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/uncompr.o
+/workspaces/node_x86_64-2/out/Release/obj.target/zlib/deps/zlib/zutil.o

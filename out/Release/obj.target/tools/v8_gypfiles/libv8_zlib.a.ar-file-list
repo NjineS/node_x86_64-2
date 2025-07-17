@@ -1,0 +1,17 @@
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/adler32.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/compress.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/cpu_features.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/crc32.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/deflate.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzclose.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzlib.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzread.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/gzwrite.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/infback.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/inffast.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/inflate.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/inftrees.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/trees.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/uncompr.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/zutil.o
+/workspaces/node_x86_64-2/out/Release/obj.target/v8_zlib/deps/v8/third_party/zlib/google/compression_utils_portable.o

@@ -1,0 +1,17 @@
+cmd_/workspaces/node_x86_64-2/out/Release/obj.target/node_js2c/tools/js2c.o := g++ -o /workspaces/node_x86_64-2/out/Release/obj.target/node_js2c/tools/js2c.o ../tools/js2c.cc '-D_GLIBCXX_USE_CXX11_ABI=1' '-D_FILE_OFFSET_BITS=64' '-DNODE_OPENSSL_CONF_NAME=nodejs_conf' '-DICU_NO_USER_DATA_OVERRIDE' '-D__STDC_FORMAT_MACROS' '-DOPENSSL_NO_PINSHARED' '-DOPENSSL_THREADS' '-DNODE_JS2C_USE_STRING_LITERALS' '-D_LARGEFILE_SOURCE' '-D_POSIX_C_SOURCE=200112' -I../tools -I../src -I../deps/v8/third_party/simdutf -I../deps/uv/include  -Wall -Wextra -Wno-unused-parameter -Wno-restrict -pthread -Wall -Wextra -Wno-unused-parameter -m64 -O3 -fno-omit-frame-pointer -fno-rtti -fno-exceptions -fno-strict-aliasing -std=gnu++20 -MMD -MF /workspaces/node_x86_64-2/out/Release/.deps//workspaces/node_x86_64-2/out/Release/obj.target/node_js2c/tools/js2c.o.d.raw   -c
+/workspaces/node_x86_64-2/out/Release/obj.target/node_js2c/tools/js2c.o: \
+ ../tools/js2c.cc ../src/embedded_data.h ../tools/executable_wrapper.h \
+ ../deps/uv/include/uv.h ../deps/uv/include/uv/errno.h \
+ ../deps/uv/include/uv/version.h ../deps/uv/include/uv/unix.h \
+ ../deps/uv/include/uv/threadpool.h ../deps/uv/include/uv/linux.h \
+ ../deps/v8/third_party/simdutf/simdutf.h
+../tools/js2c.cc:
+../src/embedded_data.h:
+../tools/executable_wrapper.h:
+../deps/uv/include/uv.h:
+../deps/uv/include/uv/errno.h:
+../deps/uv/include/uv/version.h:
+../deps/uv/include/uv/unix.h:
+../deps/uv/include/uv/threadpool.h:
+../deps/uv/include/uv/linux.h:
+../deps/v8/third_party/simdutf/simdutf.h:

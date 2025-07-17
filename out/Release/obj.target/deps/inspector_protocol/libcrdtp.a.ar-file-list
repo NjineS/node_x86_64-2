@@ -1,0 +1,9 @@
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/cbor.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/dispatch.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/error_support.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/json.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/json_platform.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/protocol_core.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/serializable.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/span.o
+/workspaces/node_x86_64-2/out/Release/obj.target/crdtp/deps/inspector_protocol/crdtp/status.o
